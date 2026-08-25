@@ -1,27 +1,53 @@
 ## Hi there 👋
 
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= ANIMATED HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Vijay Sri</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vijay%20Sri&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:667eea,100:764ba2" />
+</p>
+
+<h1 align="center">
+  👋 Hi, I'm Vijay Sri
+</h1>
 
 <h3 align="center">
-  Computer Science Engineering Student | Java Developer | AI/ML Enthusiast | Problem Solver
+  Computer Science Engineering Student • Java Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Java+Developer+☕;AI+%7C+ML+Enthusiast+🤖;Computer+Vision+Explorer+👁️;Data+Structures+%26+Algorithms+Learner+🧠;Problem+Solver+%7C+Tech+Enthusiast+💻;Building+Solutions+for+Real-World+Problems+🚀" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Vijaysriv05">
-    <img src="https://komarev.com/ghpvc/?username=Vijaysriv05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vijaysriv05&label=Profile%20Views&color=667eea&style=for-the-badge" />
   </a>
   <a href="https://github.com/Vijaysriv05?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vijaysriv05?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Vijaysriv05?label=Followers&style=for-the-badge&color=764ba2" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;AI+%7C+ML+Enthusiast;Problem+Solver;Building+Technology+for+Real-World+Problems" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/vijaysri-v">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/VijaySri_05/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://vijay-sri-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="700" />
 </p>
 
 ---
+
+## 👨‍💻 About Me
 
 ## 👨‍💻 About Me
 
