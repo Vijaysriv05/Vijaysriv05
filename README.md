@@ -325,16 +325,17 @@
 
 ---
 
+
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaysriv05&theme=tokyo-night&hide_border=true&area=true"
+  alt="Vijay Sri's GitHub Activity Graph"
+/>
 
 </div>
-
----
-
 # 🏅 GitHub Achievements
 
 <div align="center">
